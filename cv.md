@@ -13,5 +13,13 @@
 * CV Code
 * Sublime
 
+# Education
+* BSU, Faculty of Biology.
+
+# English language
+
+ B1 (Intermediate)
+
+
 
 
