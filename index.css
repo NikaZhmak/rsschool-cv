@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+padding: 0px;
+text-decoration: none;
+list-style-type:none;
+list-style-type: none;
+box-sizing: border-box;
+}
+
+.container{
+    background-color: antiquewhite;
+    margin: 0px auto;
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    gap: 40px;
+}
+
+.photo{
+    display: block;
+    width:60%;
+    margin: 10px auto 0px auto; 
+    border-radius: 10px;   
+}
+
+.left_side{
+     background-color: rgb(243, 189, 123);
+     height: 100%;
+}
+
+.title{
+    text-align: center;
+   margin: 15px;
+   font-family: 'Source Code Pro', monospace;
+}
+
+ul{
+    font-family: 'M PLUS 1', sans-serif;
+    margin-left: 15px;
+    line-height: 27px;
+}
+
+.gmail{ 
+ padding-left: 30px;
+background: url(assets/gmail.png) left no-repeat;
+background-size: 20px 13px;
+}
+.phone{
+    padding-left: 30px;
+    background: url(assets/phone-removebg-preview.png) left no-repeat;
+    background-size: 20px 13px;
+}
+
+.tm{
+    padding-left: 30px;
+    background: url(assets/tm-removebg-preview.png) left no-repeat;
+    background-size: 20px 20px;
+}
+
+.git{
+    padding-left: 30px;
+    background: url(assets/github.png) left no-repeat;
+    background-size: 20px 20px;
+}
+
+.right_side{
+    margin-top: 20px;
+  
+}
+
+.name{
+    font-weight: 700;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.subname{
+    font-family: 'M PLUS 1', sans-serif;
+    margin-left: 15px;
+    padding-left: 35px;
+    line-height: 27px;
+    background:  url(assets/book.png) left no-repeat;
+    background-size: 30px 30px;
+}
+
