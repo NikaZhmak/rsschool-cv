@@ -40,3 +40,48 @@ ul{
     line-height: 27px;
 }
 
+.gmail{ 
+ padding-left: 30px;
+background: url(assets/gmail.png) left no-repeat;
+background-size: 20px 13px;
+}
+.phone{
+    padding-left: 30px;
+    background: url(assets/phone-removebg-preview.png) left no-repeat;
+    background-size: 20px 13px;
+}
+
+.tm{
+    padding-left: 30px;
+    background: url(assets/tm-removebg-preview.png) left no-repeat;
+    background-size: 20px 20px;
+}
+
+.git{
+    padding-left: 30px;
+    background: url(assets/github.png) left no-repeat;
+    background-size: 20px 20px;
+}
+
+.right_side{
+    margin-top: 20px;
+  
+}
+
+.name{
+    font-weight: 700;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.subname{
+    font-family: 'M PLUS 1', sans-serif;
+    margin-left: 15px;
+    padding-left: 35px;
+    line-height: 27px;
+    background:  url(assets/book.png) left no-repeat;
+    background-size: 30px 30px;
+}
+
