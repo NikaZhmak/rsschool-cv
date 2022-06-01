@@ -19,6 +19,10 @@
 # English language
 
  B1 (Intermediate)
+ 
+ #  Projects
+* Css mem slider https://nikazhmak.github.io/cssMemSlider/index.html
+* Shelter https://rolling-scopes-school.github.io/nikazhmak-JSFEPRESCHOOL/Shelter/pages/main/index.html
 
 
 
